@@ -182,6 +182,7 @@ module.exports = {
                                         'common/space/bracket',
                                         'common/space/delRepeatSpace',
                                         'ru/other/phone-number',
+                                        'common/symbols/cf',
                                     ],
                                 },
                             },
